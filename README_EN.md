@@ -21,6 +21,14 @@ Gauge fields (compensation of phase redundancy) → quantum fields → matter fi
 Observer completes the confirmation loop ("I am. You are. We are.")
 ```
 
+## ⭐ Special Recommendation
+
+**[Origin Theory: The Complete Self-Interference Chain]** (English · PDF) — **the complete physical mapping of Benyuan Theory**
+
+From self-referential oscillation → split → phase difference → self-interference → standing waves (stable solutions) → projection of space and time → metric → curvature → gravity; multi-pattern phase relations → connection → field strength (non-integrability) → gauge force → matter generation. Every step maps to established physics; the structural chain is complete and self-consistent, and the numerical layer is honestly left open.
+
+📄 [Download PDF](docs/origin_theory_self_interference_chain.pdf) · [View on GitHub](https://github.com/cranecall/the-root-theory-of-univers/blob/main/docs/origin_theory_self_interference_chain.pdf)
+
 ## Repository Contents
 
 | Directory | Contents |

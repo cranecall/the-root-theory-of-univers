@@ -21,6 +21,14 @@
 观察者完成确认环（"我在，你在，我们在"）
 ```
 
+## 📌 特别推荐
+
+**[Origin Theory: The Complete Self-Interference Chain]**（英文 · PDF）—— **本源论的完整物理映射**
+
+从自指震荡 → 分裂 → 相位差 → 自干涉 → 驻波（稳定解）→ 时空投影 → 度规 → 曲率 → 引力；多模式相位关系 → 联络 → 场强（不可积性）→ 规范力 → 物质生成。每一步都映射到既有物理；结构链完整自洽，数值层如实留白。
+
+📄 [下载 PDF](docs/origin_theory_self_interference_chain.pdf) · [GitHub 查看](https://github.com/cranecall/the-root-theory-of-univers/blob/main/docs/origin_theory_self_interference_chain.pdf)
+
 ## 本仓库内容
 
 | 目录 | 内容 |
