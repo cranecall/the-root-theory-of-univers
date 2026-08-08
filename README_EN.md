@@ -39,7 +39,7 @@ From self-referential oscillation → split → phase difference → self-interf
 
 ## Key Results (independently verifiable)
 
-- **Mass Integer Lattice**: m = n·m_e, from electron (n=1) to top quark (n=338083) — 50+ particles, 6 orders of magnitude, all within 0.2%;
+- **Mass Integer Lattice**: m = n·m_e, from electron (n=1) to top quark (n=338083) — 50+ particles, 6 orders of magnitude, fitted deviations all within 0.2%; ⚠️ **Audit status (2026-08)**: under the proper fractional-position test the lattice is statistically indistinguishable from uniform (fraction mean 0.4893, z = −0.12σ) — a post-hoc fitting record, not an independent signal; withdrawn as convergence, revivable only by out-of-sample pre-registered prediction;
 - **Multi-Lattice**: five independent near-integer lattices (e, μ, π, K, p) converge on the electroweak sector;
 - **Origin of Gauge Fields**: logical-wave phase topology → connection → curvature (corrected generation equation, mathematically rigorous);
 - **Gauge Group Structure**: mutual-reference pole count n → Weyl group S_n → SU(n) (U(1)×SU(2)×SU(3));
